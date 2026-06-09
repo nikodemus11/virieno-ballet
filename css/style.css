@@ -467,7 +467,7 @@ p { color: var(--mid); max-width: 65ch; }
 /* ─── VIDEO SECTION ───────────────────── */
 .video-wrap {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 45%;
   height: 0;
   overflow: hidden;
   max-width: 800px;
